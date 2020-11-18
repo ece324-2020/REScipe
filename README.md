@@ -10,4 +10,4 @@ run `pip install -r requirements.txt` if you're running files from the repo for 
 
 bare_minimum.csv: so far only 20 images and titles, used for testing other features so far.
 
-recipe_numbers.csv: recipe url endings that contain images so far, will update with a better method soon.
+total_data.xlnx: 45 000 rows containing image sources, recipe titles, url extensions, and other information relating to the recipe. (URL Extension is unique, can use as a key)
