@@ -32,7 +32,6 @@ def check_recipes(start,end,filename):
 
 
 if __name__ == '__main__':
-
     Thread(target=check_recipes,args=(70000,80000,'recipes1.csv')).start()
     time.sleep(3)
     Thread(target=check_recipes,args=(80000,90000,'recipes2.csv')).start()
