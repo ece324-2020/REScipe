@@ -1,6 +1,6 @@
 # REScipe
 
-### Outer Folder Should Be EMPTY Except readme
+### Outer Folder Should Be EMPTY Except things like readme
 
 ### Prerequisites
 
