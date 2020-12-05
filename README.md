@@ -1,5 +1,7 @@
 # REScipe
 
+### Outer Folder Should Be EMPTY Except readme
+
 ### Prerequisites
 
 run `pip install pipreqs` if it's the first time installing the package
