@@ -1,7 +1,5 @@
 # REScipe
 
-### Outer Folder Should Be EMPTY Except things like readme
-
 ### Prerequisites
 
 run `pip install pipreqs` if it's the first time installing the package
@@ -9,6 +7,8 @@ run `pip install pipreqs` if it's the first time installing the package
 If you add new installation packages to any file, run `pipreqs --force .`, this will update the requirements.txt file.
 
 run `pip install -r requirements.txt` if you're running files from the repo for the first time after any updates or git pulls. 
+
+### Directories
 
 bare_minimum.csv: so far only 20 images and titles, used for testing other features so far.
 
