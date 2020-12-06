@@ -10,6 +10,12 @@ run `pip install -r requirements.txt` if you're running files from the repo for 
 
 ### Directories
 
-bare_minimum.csv: so far only 20 images and titles, used for testing other features so far.
+data - contains all kinds of data, from raw data to training results - some data are not included in the GitHub repo due to oversized files
 
-total_data.xlsx: 45 000 rows containing image sources, recipe titles, url extensions, and other information relating to the recipe. (URL Extension is unique, can use as a key)
+preprocessing - contains all the scripts that deal with early data processing
+
+LDA_model - contains the code for unsupervised LDA topic modelling
+
+NN_model - contains the code for our main model - includes training code and visualization code
+
+
