@@ -1,5 +1,9 @@
 # REScipe
 
+### Description
+
+The goal of REScipe is to recommend possible recipes given a food image.
+
 ### Prerequisites
 
 run `pip install pipreqs` if it's the first time installing the package
